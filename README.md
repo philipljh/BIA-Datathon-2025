@@ -59,10 +59,10 @@ Our solution is designed to be **modular, scalable, and easy to integrate**.
 **Dynamic Visualizations**: Tableau dashboards enable intuitive exploration of data.  
 
 ### Key Performance Indicators (KPIs):
-- ** Processing Time Reduction:** Automation reduces analysis time by **80%**.
-- ** Trend Detection Accuracy:** Achieves **90% accuracy** in identifying key themes.
-- ** Dashboard Engagement:** Tracks stakeholder interactions with **Tableau dashboards**.
-- ** Alert Responsiveness:** Critical events detected and notified **within minutes**.
+- **Processing Time Reduction:** Automation reduces analysis time by **80%**.
+- **Trend Detection Accuracy:** Achieves **90% accuracy** in identifying key themes.
+- **Dashboard Engagement:** Tracks stakeholder interactions with **Tableau dashboards**.
+- **Alert Responsiveness:** Critical events detected and notified **within minutes**.
 
 ---
 
